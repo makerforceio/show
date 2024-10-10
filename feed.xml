@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:atom="http://www.w3.org/2005/Atom">
+
+	<channel>
+
+		<title>The MakerForce Show</title>
+		<link>https://show.makerforce.io</link>
+		<description>A monthly podcast by a group of young hackers talking about engineering, software development and tech.</description>
+		<language>en-us</language>
+		
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:summary>A monthly podcast by a group of young hackers talking about engineering, software development and tech.</itunes:summary>
+		<itunes:subtitle>A monthly podcast by a group of young hackers talking about engineering, software development and tech.</itunes:subtitle>
+		<itunes:author>MakerForce</itunes:author>
+		<itunes:owner>
+			<itunes:email>contact@makerforce.io</itunes:email>
+			<itunes:name>MakerForce</itunes:name>
+		</itunes:owner>
+		<itunes:keywords>hackers,makers,engineering,technology,hardware,electronics,embedded,software,development,web,makerforce,</itunes:keywords>
+		<itunes:category text="Technology">
+			<itunes:category text="Developers" />
+		</itunes:category>
+		<itunes:image href="http://show.makerforce.io/content/cover.png" />
+		
+		<image>
+			<title>The MakerForce Show</title>
+			<width>160</width>
+			<height>160</height>
+			<link>http://show.makerforce.io</link>
+			<url>http://show.makerforce.io/content/cover.160.png</url>
+		</image>
+		
+		<image>
+			<title>The MakerForce Show</title>
+			<width>2048</width>
+			<height>2048</height>
+			<link>http://show.makerforce.io</link>
+			<url>http://show.makerforce.io/content/cover.png</url>
+		</image>
+		
+		<atom:link rel="self" type="application/rss+xml" title="The MakerForce Show" href="http://show.makerforce.io/feed.xml" />
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/TheMakerForceShow" />
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+	 
+		<creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
+
+		
+		<item>
+			<title>#1: The Beginning of the End</title>
+			<link>http://show.makerforce.io/1/</link>
+			<!-- <link>https://makerforce.io/show-episode-1</link> -->
+			<description>We go thorugh our experience at IDEA Hacks, and then mention Android's market share, last week's MacBook release, USB Type-C, touch, X, chips angled at not 45°, self-driving, electric cars and public transport. </description>
+			<content:encoded><![CDATA[<p>Trump just won. We go thorugh our experience at <a href="http://ideashub.sg">IDEA Hacks</a>, and then mention Android’s market share, last week’s MacBook release, USB Type-C, touch, X, chips angled at not 45°, self-driving, electric cars and public transport.</p>
+
+<ul>
+  <li><a href="http://www.cnbc.com/2016/11/03/google-android-hits-market-share-record-with-nearly-9-in-every-10-smartphones-using-it.html">Android hits market share record</a></li>
+  <li><a href="https://www.android.com/intl/en_in/one/">Android One</a></li>
+  <li><a href="http://www.extremetech.com/computing/238878-apple-now-officially-dongle-company-happens-make-smartphones-computers">Apple is now a dongle company</a></li>
+  <li><a href="http://www.theverge.com/2016/11/8/13567606/alphabet-google-x-project-wing-drone-delivery-starbucks-deal">Starbucks and Alphabet</a></li>
+  <li><a href="http://opencv.org/">OpenCV</a></li>
+  <li><a href="http://wit.ai/">wit.ai</a></li>
+  <li><a href="http://www.ibm.com/bluemix">IBM Bluemix</a> &amp; <a href="http://www.ibm.com/watson">Watson</a></li>
+  <li><a href="https://www.solveforx.com/projects">X</a></li>
+  <li><a href="https://atap.google.com/soli/">Soli</a>, <a href="https://www.myo.com/">Myo</a></li>
+  <li><a href="http://www.proskit.com/soldering-assembly/stations/2-in-1-smd-hot-air-rework-station">Sudharshan’s new station</a></li>
+  <li><a href="http://www.orangepi.org/orangepipc2/images/orangepipc2_info.jpg">Orange Pi PC 2</a></li>
+</ul>
+
+<p>Intro music: <a href="https://soundcloud.com/kevin-9-1/zigzag">ZigZag by KevinMacLeod</a></p>
+]]></content:encoded>
+			
+			<guid isPermaLink="false">http://show.makerforce.io/content/1.mp3</guid>
+			<enclosure url="http://show.makerforce.io/content/1.ogg" length="4200789" type="audio/ogg" />
+			<enclosure url="http://show.makerforce.io/content/1.mp3" length="4200789" type="audio/mpeg" />
+			
+			<pubDate>Wed, 09 Nov 2016 00:00:00 +0800</pubDate>
+			<author>MakerForce</author>	
+			<itunes:author>MakerForce</itunes:author>
+			<itunes:subtitle>We go thorugh our experience at IDEA Hacks, and then mention Android's market share, last week's MacBook release, USB Type-C, touch, X, chips angled at not 45°, self-driving, electric cars and public transport. </itunes:subtitle>
+			<itunes:summary>We go thorugh our experience at IDEA Hacks, and then mention Android's market share, last week's MacBook release, USB Type-C, touch, X, chips angled at not 45°, self-driving, electric cars and public transport. </itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords></itunes:keywords>
+			<itunes:duration>4200</itunes:duration>
+			<itunes:image href="http://show.makerforce.io/content/cover.png" />
+		</item>
+		
+		<item>
+			<title>#0: try {} catch (e) {}</title>
+			<link>http://show.makerforce.io/0/</link>
+			<!-- <link>https://makerforce.io/show-episode-0</link> -->
+			<description>We start off the podcast with a quick overview on MakerForce and each of us, then talk about the Google announcement, Arduino merger and Note 7 recall. </description>
+			<content:encoded><![CDATA[<p>In this (less technical) episode, we start off the podcast with a quick overview on MakerForce and each of us, then talk about the Google announcement, Arduino merger and Note 7 recall.</p>
+
+<ul>
+  <li><a href="https://madeby.google.com/">Made by Google</a></li>
+  <li><a href="https://www.cnet.com/news/google-home-vs-amazon-echo/">Google Home vs Amazon Echo</a></li>
+  <li><a href="http://makezine.com/2015/03/06/arduino-vs-arduino/">Arduino merger</a></li>
+  <li><a href="https://commongoods.eu.org/">commongoods</a></li>
+</ul>
+
+<p>Intro music: <a href="https://soundcloud.com/kevin-9-1/zigzag">ZigZag by KevinMacLeod</a></p>
+
+<p><a href="https://makerforce.io/">Tweet</a> at us!</p>
+]]></content:encoded>
+			
+			<guid isPermaLink="false">http://show.makerforce.io/content/0.mp3</guid>
+			<enclosure url="http://show.makerforce.io/content/0.ogg" length="3340070" type="audio/ogg" />
+			<enclosure url="http://show.makerforce.io/content/0.mp3" length="3340070" type="audio/mpeg" />
+			
+			<pubDate>Tue, 18 Oct 2016 00:00:00 +0800</pubDate>
+			<author>MakerForce</author>	
+			<itunes:author>MakerForce</itunes:author>
+			<itunes:subtitle>We start off the podcast with a quick overview on MakerForce and each of us, then talk about the Google announcement, Arduino merger and Note 7 recall. </itunes:subtitle>
+			<itunes:summary>We start off the podcast with a quick overview on MakerForce and each of us, then talk about the Google announcement, Arduino merger and Note 7 recall. </itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords></itunes:keywords>
+			<itunes:duration>3340</itunes:duration>
+			<itunes:image href="http://show.makerforce.io/content/cover.png" />
+		</item>
+		
+
+	</channel>
+
+</rss>
